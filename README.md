@@ -1,2 +1,2 @@
-# CD_Project
-Distributed sudoku solver
+# cd_sudoku
+Projecto CD 2023/24
